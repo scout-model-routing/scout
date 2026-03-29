@@ -112,7 +112,7 @@ def single_fold_evaluation(X_train, y_train, X_val, y_val, metadata_train, metad
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Zooter evaluation script')
+    parser = argparse.ArgumentParser(description='MLP baseline evaluation script')
     parser.add_argument('--seed', type=int, default=42, help='Random seed for reproducibility')
     parser.add_argument('--folder_suffix', type=str, default='', help='Folder suffix for results')
     parser.add_argument('--lr', type=float, default=5e-4, help='Learning rate')

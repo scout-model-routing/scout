@@ -12,7 +12,7 @@ from utils.config import data_path
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Zooter evaluation script')
+    parser = argparse.ArgumentParser(description='Oracle baseline evaluation script')
     parser.add_argument('--seed', type=int, default=42, help='Random seed for reproducibility')
     parser.add_argument('--folder_suffix', type=str, default='', help='Folder suffix for results')
     parser.add_argument('--experiment_type', type=str, default='main', help='Experiment type')

@@ -198,6 +198,6 @@ def gen_cost_range_exp(utility_y_test, utility_test_predictions, utility_y_train
     start_time = time.time()
     result = _parallel_regret_over_costs(utility_y_test, utility_test_predictions, all_costs)
     if verbose:
-        print(f"Exp9 results: {result}")
-        print(f"Time for exp8: {time.time() - start_time}")
+        print(f"Cost range results: {result}")
+        print(f"Time for cost range exp: {time.time() - start_time}")
     return result
