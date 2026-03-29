@@ -1,6 +1,6 @@
 # SCOUT
 
-### [📝 Paper](https://arxiv.org/abs/XXXX.XXXXX) | [🌐 Project Website](https://scout-routing.github.io)
+### [📝 Paper](https://scout-model-routing.github.io/static/scout-model-routing.pdf) | [🌐 Project Website](https://scout-model-routing.github.io)
 
 **SCOUT** (**S**core-**C**onditioned **O**ptimal **U**tility **T**argeting) is a *routing framework that selects the best 3D reconstruction model for a given input image*, balancing reconstruction quality against user-specified cost constraints (latency, memory, etc.) for robotic manipulation.
 
