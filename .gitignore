@@ -1,0 +1,16 @@
+# Results
+results/
+
+# Data files
+data/*.npz
+data/.gitattributes
+data/README.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Claude
+.claude/

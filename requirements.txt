@@ -1,0 +1,12 @@
+# PyTorch with CUDA 12.1 — install via:
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+
+numpy==2.1.2
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+joblib==1.5.3
+tqdm==4.67.1
+matplotlib==3.10.8
+seaborn==0.13.2
