@@ -39,8 +39,8 @@ pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
 
 #### 3. Install remaining dependencies
 ```bash
-git clone https://github.com/SCOUT-Routing/SCOUT.git
-cd SCOUT
+git clone https://github.com/scout-model-routing/scout
+cd scout
 pip install -r requirements.txt
 ```
 
