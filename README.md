@@ -9,7 +9,7 @@
 Please read the official paper for a detailed overview of our work.
 > **Which Reconstruction Model Should a Robot Use? Routing Image-to-3D Models for Cost-Aware Robotic Manipulation**<br>
 > Akash Anand, Aditya Agarwal, Leslie Pack Kaelbling<br>
-> [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+> [arXiv:2603.27797](https://arxiv.org/abs/2603.27797)
 
 -----
 
@@ -135,3 +135,14 @@ Jupyter notebooks in `visualizations/` reproduce all tables and figures:
 
 ## 📜 Cite Us
 
+```bibtex
+@misc{anand2026reconstructionmodelrobotuse,
+      title={Which Reconstruction Model Should a Robot Use? Routing Image-to-3D Models for Cost-Aware Robotic Manipulation},
+      author={Akash Anand and Aditya Agarwal and Leslie Pack Kaelbling},
+      year={2026},
+      eprint={2603.27797},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.27797},
+}
+```
